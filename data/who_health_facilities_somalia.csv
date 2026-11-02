@@ -1,0 +1,717 @@
+fid,admin1,facility_name,facility_type,ownership,lat,lon,ll_source
+1,Awdal,Aasha Caddo Health Post,Health Post,MoHL,11.1744,43.4392,GPS
+2,Awdal,Ali Xaydh Health Post,Health Post,MoHL,10.4488,43.2521,Other
+3,Awdal,Ara-Weine Health Post,Health Post,MoHL,10.2844,43.4194,GPS
+4,Awdal,Baki Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0099,43.3653,Other
+5,Awdal,Boon Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.1851,43.0841,Other
+6,Awdal,Borama Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.9387,43.1839,Other
+7,Awdal,Borama Regional Hospital,Regional Hospital,MoHL,10.292,43.69,GPS
+8,Awdal,Borama Save Our Souls (SOS) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.2957,43.0509,Other
+9,Awdal,Cabdil Qaaddir Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.5118,42.8913,GPS
+10,Awdal,Cadaad Health Post,Health Post,MoHL,10.0777,43.2665,Other
+11,Awdal,Cali-Haidh Health Post,Health Post,,9.1155,45.395,GPS
+12,Awdal,Central Borama Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.929,43.1833,GPS
+13,Awdal,Dila Maternal & Child Health Centre,Maternal & Child Health Centre,,9.78,43.35,GPS
+14,Awdal,Dilla Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.7794,43.3445,Other
+15,Awdal,Fadhi-Xun Health Post,Health Post,MoHL,10.2925,43.2947,Other
+16,Awdal,Farda-Lagu Xidh Health Post,Health Post,MoHL,10.4092,43.4497,GPS
+17,Awdal,Fiqi Adan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.3696,43.1922,Other
+18,Awdal,Garbodadar Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,10.2384,43.6269,Other
+19,Awdal,Gargaara Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.313,43.8059,Other
+20,Awdal,Gariso Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.62,43.46,GPS
+21,Awdal,Goraya Cowl Health Post,Health Post,MoHL,9.8679,43.2269,Other
+22,Awdal,Gorgab Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.9289,43.1833,GPS
+23,Awdal,Hariirad Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.3783,42.8726,Other
+24,Awdal,Hego Health Post,Health Post,MoHL,10.0774,43.2679,Other
+25,Awdal,Idhan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.6926,43.3021,Other
+26,Awdal,Jarahorato Health Post,Health Post,MoHL,9.8439,43.3302,Other
+27,Awdal,Jidhi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.5926,43.048,GPS
+28,Awdal,Kalawle Health Post,Health Post,MoHL,10.5515,43.8527,GPS
+29,Awdal,Karure Health Post,Health Post,MoHL,10.7506,43.5888,GPS
+30,Awdal,Lowyo-Ado Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.3546,43.4728,GPS
+31,Awdal,Lughayo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.6825,43.9432,Other
+32,Awdal,Magala-Qaloc Health Post,Health Post,MoHL,9.7321,43.2903,Other
+33,Awdal,Old Baki Health Post,Health Post,MoHL,9.9522,43.37,GPS
+34,Awdal,Qoor-Gaab Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.1833,43.4,Other
+35,Awdal,Quli-Jeed Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8166,43.3116,Other
+36,Awdal,Ruqi Health Post,Health Post,MoHL,9.9703,43.4283,Other
+37,Awdal,Sabowanaag Health Post,Health Post,MoHL,10.5296,44.1314,GPS
+38,Awdal,Sheed Dheer Health Post,Health Post,MoHL,10.3018,43.5234,Other
+39,Awdal,Sheikh Ali Jawhar Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.9465,43.1868,Google Earth
+40,Awdal,Tokhoshi Health Post,Health Post,MoHL,11.3445,43.4106,GPS
+41,Awdal,Waalago Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8514,43.2776,Other
+42,Awdal,Walaalgo Health Post,Health Post,MoHL,9.8693,43.2627,GPS
+43,Awdal,Waraqadhigta Health Post,Health Post,MoHL,10.1834,43.6207,Other
+44,Awdal,Weraar Health Post,Health Post,MoHL,9.7361,43.1775,Other
+45,Awdal,Xamarta Health Post,Health Post,MoHL,10.06,43.36,GPS
+46,Awdal,Xoorrey Health Post,Health Post,,10.1801,43.3678,Other
+47,Bakool,Abal Health Post,Health Post,NGO,3.9939,43.9417,GPS
+48,Bakool,Abaq Beeday Health Post,Health Post,NGO,4.1211,44.0366,GPS
+49,Bakool,Abaq Dhere Health Post,Health Post,NGO,3.9863,44.3614,GPS
+50,Bakool,Abeesale Health Post,Health Post,NGO,4.9053,44.5206,GPS
+51,Bakool,Aleemow Health Post,Health Post,NGO,3.9782,43.2676,GPS
+52,Bakool,Arshamo Health Post,Health Post,NGO,4.0538,43.3556,GPS
+53,Bakool,Ato Health Post,Health Post,NGO,4.6207,43.3498,GPS
+54,Bakool,Baadikeen Health Post,Health Post,,4.7894,44.6033,GPS
+55,Bakool,Bakaar Yare Health Post,Health Post,NGO,3.6466,43.4677,GPS
+56,Bakool,Bana Health Post,Health Post,NGO,4.0013,43.941,GPS
+57,Bakool,Banjaneey Health Post,Health Post,NGO,4.2349,43.9295,GPS
+58,Bakool,Ban-Soofe Health Post,Health Post,NGO,4.0537,43.1016,GPS
+59,Bakool,Biyoley Health Post,Health Post,MoHL,3.9359,44.4214,GPS
+60,Bakool,Boodaan Health Post,Health Post,NGO,4.144,43.2497,GPS
+61,Bakool,Burdho Health Post,Health Post,NGO,4.1735,44.6972,GPS
+62,Bakool,Buulo Eyle Health Post,Health Post,NGO,3.6761,43.3988,GPS
+63,Bakool,Buulo Jadiid1 Health Post,Health Post,NGO,3.8726,44.3354,GPS
+64,Bakool,Buur Basle Health Post,Health Post,NGO,4.0661,43.1377,GPS
+65,Bakool,Buur Dhuxunle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0552,43.2471,GPS
+66,Bakool,Buur-Cadey Health Post,Health Post,NGO,4.0775,43.3465,GPS
+67,Bakool,Ceel Barde Health Post,Health Post,NGO,4.8231,43.6679,GPS
+68,Bakool,Ceel Barde Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.8282,43.6599,GPS
+69,Bakool,Ceel Gudo Health Post,Health Post,NGO,4.1083,44.3561,GPS
+70,Bakool,Ceel-Jeedow Health Post,Health Post,NGO,3.9639,43.1912,GPS
+71,Bakool,Dhanawe Health Post,Health Post,NGO,3.9708,44.6414,GPS
+72,Bakool,Dheemo / Bulo Dhowdhow Health Post,Health Post,NGO,3.8155,44.5186,GPS
+73,Bakool,Dhurey Health Post,Health Post,NGO,3.6548,43.3299,GPS
+74,Bakool,Dhuurey Health Post,Health Post,NGO,4.2621,42.9185,GPS
+75,Bakool,Doonful Health Post,Health Post,NGO,4.1837,43.9948,GPS
+76,Bakool,Doygaab Health Post,Health Post,NGO,3.9837,44.1367,Other
+77,Bakool,Dudumble Health Post,Health Post,NGO,4.1312,44.0877,GPS
+78,Bakool,Eedkiyaal Health Post,Health Post,NGO,4.0033,44.0157,GPS
+79,Bakool,El Garas Health Post,Health Post,NGO,4.1514,44.2133,GPS
+80,Bakool,El Haawey Health Post,Health Post,NGO,4.0275,44.4435,GPS
+81,Bakool,El-Magad Health Post,Health Post,NGO,4.9189,44.3959,GPS
+82,Bakool,Garas Maamow Health Post,Health Post,NGO,3.7247,43.2653,GPS
+83,Bakool,Garas Weyne Health Post,Health Post,NGO,4.2544,43.4941,GPS
+84,Bakool,Garsaaley Health Post,Health Post,NGO,3.9964,43.2312,GPS
+85,Bakool,Gomor Sangar Health Post,Health Post,NGO,4.0344,43.1382,GPS
+86,Bakool,Goobato Health Post,Health Post,NGO,4.0237,43.1648,GPS
+87,Bakool,Hubudhi Health Post,Health Post,NGO,3.8628,44.5114,GPS
+88,Bakool,Hudur Imc Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1162,43.891,GPS
+89,Bakool,Hugey Health Post,Health Post,NGO,3.8732,44.479,GPS
+90,Bakool,Imilow Health Post,Health Post,NGO,4.2728,43.2206,GPS
+91,Bakool,Korkoor Health Post,Health Post,NGO,3.6412,43.5866,GPS
+92,Bakool,Korkor Health Post,Health Post,NGO,3.9589,44.0891,GPS
+93,Bakool,Kulunjerer Health Post,Health Post,NGO,3.903,43.5869,GPS
+94,Bakool,Madaa Health Post,Health Post,NGO,3.9552,44.7238,GPS
+95,Bakool,Mad-Foodey Health Post,Health Post,NGO,3.8136,43.3099,GPS
+96,Bakool,Misir Health Post,Health Post,NGO,3.9782,44.597,GPS
+97,Bakool,Moro Gabey Health Post,Health Post,NGO,4.1898,43.6435,GPS
+98,Bakool,Oorar Health Post,Health Post,NGO,3.8828,44.3458,GPS
+99,Bakool,Oor-Gaafin Health Post,Health Post,NGO,3.8945,43.431,GPS
+100,Bakool,Qurac-Joome Health Post,Health Post,NGO,4.9447,44.302,GPS
+101,Bakool,Quracle Health Post,Health Post,NGO,4.3159,43.0715,GPS
+102,Bakool,Rabdhure Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.3472,43.1549,GPS
+103,Bakool,Sarmaan Health Post,Health Post,NGO,3.9565,44.0043,GPS
+104,Bakool,Shiimi Health Post,Health Post,NGO,4.0594,44.5388,GPS
+105,Bakool,Tiyeglow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0182,44.5128,GPS
+106,Bakool,Towsiiley Hadame Health Post,Health Post,NGO,4.0161,43.356,GPS
+107,Bakool,Waab Giraad Health Post,Health Post,NGO,4.1157,43.2605,GPS
+108,Bakool,Waajid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8093,43.2471,GPS
+109,Bakool,War Gubey Health Post,Health Post,NGO,4.1003,43.1017,GPS
+110,Bakool,War Kulunle Health Post,Health Post,NGO,4.1004,44.4442,GPS
+111,Bakool,Wararey Health Post,Health Post,NGO,4.0266,44.5819,GPS
+112,Bakool,Xudur MSF-Belgium Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1291,43.887,GPS
+113,Bakool,Yeed Health Post,Health Post,NGO,4.5372,43.0276,GPS
+114,Bakool,Yet Health Post,Health Post,NGO,4.5524,43.0446,GPS
+115,Banadir,Adan Ade Hospital,Hospital,,2.0211,45.2987,Google Earth
+116,Banadir,Al-Cimraan Hospital,Hospital,,2.0414,45.3337,GPS
+117,Banadir,Banadir Hospital,Hospital,MoHL,2.0365,45.2989,GPS
+118,Banadir,Banadir ICRC/WFP Hospital,Hospital,NGO,2.0365,45.3039,GPS
+119,Banadir,Banadir SOS Hospital,Hospital,NGO,2.0903,45.3688,GPS
+120,Banadir,Banadir Therapeutic Feeding Centre Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0415,45.3337,GPS
+121,Banadir,Bondere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0466,45.3422,Other
+122,Banadir,Ceelasha Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0427,45.334,Other
+123,Banadir,Karan ICRS/SPCS Hospital,Hospital,NGO,2.0538,45.387,GPS
+124,Banadir,Lazaretto Forlanini Hospital,Hospital,,2.0459,45.3578,Other
+125,Banadir,Martino Hospital,Hospital,,2.0306,45.3399,Other
+126,Banadir,Social Security Hospital,Hospital,,2.04,45.3427,GPS
+127,Banadir,SWISSO Kalmo Madina Health Post,Health Post,NGO,-0.0101,42.6516,GPS
+128,Banadir,Waberi Hospital,Hospital,MoHL,8.4009,48.4909,Other
+129,Banadir,Wadajir Hospital,Hospital,,2.0163,45.2982,GPS
+130,Bari,Adisona Health Post,Health Post,MoHL/NGO,9.5307,49.2297,Other
+131,Bari,Alula District Hospital,Hospital,MoHL,11.962,50.7573,GPS
+132,Bari,Alula Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.9599,50.7575,GPS
+133,Bari,Ambar Sare Health Post,Health Post,MoHL/NGO,9.6744,49.4878,Other
+134,Bari,Aris Health Post,Health Post,NGO,9.5829,50.7982,Other
+135,Bari,Balidhidin Health Post,Health Post,MoHL,10.8808,50.3928,GPS
+136,Bari,Bandarbeyla Hospital,Hospital,NGO,9.492,50.8068,GPS
+137,Bari,Bandarbeyla Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.4948,50.8122,Other
+138,Bari,Bareeda Health Post,Health Post,MoHL,11.5066,50.1557,GPS
+139,Bari,Bargaal Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.2853,51.0773,GPS
+140,Bari,Barmadobe Health Post,Health Post,NGO,10.0571,50.8841,Other
+141,Bari,Beldaje A/Lahi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.2827,49.1973,Combination
+142,Bari,Bixin Health Post,Health Post,MoHL,9.0889,50.4347,Other
+143,Bari,Bosaso Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.2131,49.2159,GPS
+144,Bari,Bosaso Regional Hospital,Hospital,MoHL,11.28,49.18,GPS
+145,Bari,Carmo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.5665,49.0609,Other
+146,Bari,Dardare Health Post,Health Post,NGO,9.4123,49.0578,Other
+147,Bari,Dhadaar Health Post,Health Post,MoHL,11.1247,49.8708,GPS
+148,Bari,Dharinbar Health Post,Health Post,NGO,8.9353,50.4751,Other
+149,Bari,Dhudhub Health Post,Health Post,NGO,9.2297,49.917,Other
+150,Bari,Dhur Health Post,Health Post,NGO,9.2449,50.6054,Other
+151,Bari,Dhuudo Health Post,Health Post,,9.22,50.2,GPS
+152,Bari,Dhuudo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.3252,50.2078,Other
+153,Bari,Dudhooyo Health Post,Health Post,MoHL/NGO,9.8772,49.9461,Other
+154,Bari,El-Dhidar Health Post,Health Post,NGO,9.2775,50.7072,Other
+155,Bari,Foar Health Post,Health Post,NGO,10.3132,50.897,Other
+156,Bari,Galgala Health Post,Health Post,MoHL,11.1941,49.0064,Other
+157,Bari,Garan Health Post,Health Post,NGO,10.1667,50.9,Geonames
+158,Bari,Gargoore Health Post,Health Post,MoHL/NGO,10.49,50.69,GPS
+159,Bari,Geesaley Health Post,Health Post,MoHL,11.7463,50.5033,Other
+160,Bari,Guud'Ad Health Post,Health Post,MoHL/NGO,9.7502,49.1965,GPS
+161,Bari,Habal Reer Health Post,Health Post,MoHL/NGO,9.8286,49.3682,Other
+162,Bari,Habeb Hospital,Hospital,,10.9843,49.2177,GPS
+163,Bari,Hafun Health Post,Health Post,NGO,10.4212,51.2688,Other
+164,Bari,Hafun Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.4231,51.2609,Other
+165,Bari,Handha Health Post,Health Post,NGO,10.6504,51.1378,Other
+166,Bari,Humbais Health Post,Health Post,MoHL/NGO,9.6414,49.8913,Other
+167,Bari,Hurdie Health Post,Health Post,NGO,10.5631,51.1341,Other
+168,Bari,Iskushuban District Hospital,Hospital,MoHL,10.28,50.22,GPS
+169,Bari,Jeded Health Post,Health Post,MoHL/NGO,9.4046,49.588,Other
+170,Bari,Kalabayr Health Post,Health Post,MoHL,10.7606,49.203,GPS
+171,Bari,Kob Dexaad Health Post,Health Post,MoHL,10.6561,49.4987,Other
+172,Bari,Kubo Health Post,Health Post,MoHL,9.502,49.0636,Other
+173,Bari,Kulaal Health Post,Health Post,MoHL,9.1595,50.6291,GPS
+174,Bari,Kulule Health Post,Health Post,NGO,9.1483,50.6441,Other
+175,Bari,Laag Health Post,Health Post,MoHL,11.0368,49.1876,Other
+176,Bari,Laaso Dawaco Health Post,Health Post,MoHL,10.46,49.08,GPS
+177,Bari,Libah-Har Health Post,Health Post,MoHL,9.4861,49.3994,Other
+178,Bari,Meladen Health Post,Health Post,MoHL/NGO,10.43,49.8,GPS
+179,Bari,Meygag Health Post,Health Post,NGO,9.5184,49.9216,Other
+180,Bari,Qaararsoor Health Post,Health Post,NGO,9.6457,49.5718,Other
+181,Bari,Qalwo Health Post,Health Post,NGO,9.6361,49.5148,Other
+182,Bari,Qandala Hospital,Hospital,MoHL,11.4724,49.8714,GPS
+183,Bari,Qardho Hospital,Hospital,NGO,9.5,49.08,GPS
+184,Bari,Qardho Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.5069,49.0861,GPS
+185,Bari,Qoton Health Post,Health Post,MoHL/NGO,9.5955,50.4714,Other
+186,Bari,Rako Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.78,49.72,GPS
+187,Bari,Sayn-Yar Health Post,Health Post,MoHL,11.7708,51.203,Other
+188,Bari,Sherbi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8631,49.0908,GPS
+189,Bari,Shimbiralle Health Post,Health Post,MoHL/NGO,10.1313,45.0225,GPS
+190,Bari,Shire Health Post,Health Post,MoHL,9.0901,49.2129,Other
+191,Bari,Tasjiic Health Post,Health Post,MoHL,10.8624,49.4576,Other
+192,Bari,Timirshe Health Post,Health Post,MoHL/NGO,10.56,50.42,GPS
+193,Bari,Ufeyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.6508,49.755,GPS
+194,Bari,Xaabo Health Post,Health Post,MoHL,11.7866,50.5296,GPS
+195,Bari,Xiddo Health Post,Health Post,MoHL/NGO,9.9574,49.0537,GPS
+196,Bari,Xiriiro Health Post,Health Post,MoHL/NGO,9.97,50.24,GPS
+197,Bari,Yaka Health Post,Health Post,MoHL/NGO,9.22,49.12,GPS
+198,Bari,Yalaho Health Post,Health Post,MoHL,10.9176,49.2525,Other
+199,Bay,Aawdiinle Health Post,Health Post,NGO,3.1706,43.4099,Other
+200,Bay,Abees Eemid Health Post,Health Post,NGO,3.1104,43.4653,GPS
+201,Bay,Adado Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1172,43.6469,GPS
+202,Bay,Aliyow-Geele Health Post,Health Post,NGO,2.7313,44.093,Other
+203,Bay,Arjeg/Dafaad Health Post,Health Post,NGO,2.6883,43.6506,Other
+204,Bay,Aw Mayow Health Post,Health Post,NGO,2.5004,44.103,Other
+205,Bay,Baido Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1106,43.6433,GPS
+206,Bay,Baidoa Caritas OPD/ Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1263,43.6665,GPS
+207,Bay,Baidoa DMO OPD/ Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1163,43.6498,GPS
+208,Bay,Baidoa World Vision International Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1224,43.6575,GPS
+209,Bay,Ban -Buraale Health Post,Health Post,NGO,2.808,44.1296,Other
+210,Bay,Barariya Health Post,Health Post,NGO,2.5706,44.1715,Other
+211,Bay,Bardaale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.2146,43.1981,GPS
+212,Bay,Berdalle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.2144,43.198,Other
+213,Bay,Biyoley /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.9587,44.2318,GPS
+214,Bay,Bootis Health Post,Health Post,NGO,2.857,43.3941,Other
+215,Bay,Borame Health Post,Health Post,NGO,3.3173,43.1954,Other
+216,Bay,Bullo Bilan (Barow) Health Post,Health Post,NGO,3.5324,44.0396,Other
+217,Bay,Bulo Barako Health Post,Health Post,NGO,2.9913,43.4961,Other
+218,Bay,Burhakaba /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.8049,44.0821,GPS
+219,Bay,Bur-Heybe Health Post,Health Post,NGO,2.9911,44.3062,Other
+220,Bay,Buulo Garas Health Post,Health Post,,2.6645,42.9787,Other
+221,Bay,Caasha Gaabo Health Post,Health Post,NGO,3.2638,43.6135,Other
+222,Bay,Cadey Kuudka Health Post,Health Post,NGO,2.6668,43.9683,Other
+223,Bay,Caliyow-Muumin Health Post,Health Post,NGO,2.9853,43.5159,Other
+224,Bay,Cambuul Weyne Health Post,Health Post,NGO,2.703,44.138,Other
+225,Bay,Dagardhere Health Post,Health Post,NGO,2.525,44.0109,Other
+226,Bay,Dambal Health Post,Health Post,NGO,3.2344,43.6024,Other
+227,Bay,Daynuunay Health Post,Health Post,NGO,3.0399,43.7969,GPS
+228,Bay,Dhanfarur/Shiidalow Health Post,Health Post,NGO,2.9381,44.0779,GPS
+229,Bay,Dhuboy Health Post,Health Post,NGO,3.041,43.4509,Other
+230,Bay,Diinsoor District Hospital,Hospital,NGO,2.4073,42.9766,GPS
+231,Bay,Diinsoor Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.4074,42.9766,GPS
+232,Bay,Doora-Weri Health Post,Health Post,NGO,3.7171,43.8045,Other
+233,Bay,Dooygodobey Health Post,Health Post,NGO,3.0059,44.1212,GPS
+234,Bay,Eedin Gaal Benle Health Post,Health Post,NGO,3.0127,43.4656,Other
+235,Bay,Faajar Busul Health Post,Health Post,NGO,3.5069,43.5711,Other
+236,Bay,Garasgod Health Post,Health Post,NGO,2.4404,43.5125,Other
+237,Bay,Gomorey Health Post,Health Post,NGO,3.0465,43.9741,GPS
+238,Bay,Goof Health Post,Health Post,NGO,2.9785,44.191,GPS
+239,Bay,Goorisine Health Post,Health Post,NGO,2.9452,43.4188,Other
+240,Bay,Gubud Sagaar Health Post,Health Post,NGO,3.5666,43.2802,Other
+241,Bay,Habare Health Post,Health Post,NGO,3.2179,43.8314,Other
+242,Bay,Hawl Wadag OPD/ Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1215,43.6467,Other
+243,Bay,Isha OPD/ (Srcs) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1969,43.586,Other
+244,Bay,Keerow Diiga Health Post,Health Post,NGO,2.8144,43.9111,Other
+245,Bay,Kerowmalaqdi Health Post,Health Post,NGO,3.2863,43.4773,Other
+246,Bay,Kurkurow Health Post,Health Post,NGO,2.8961,43.7353,GPS
+247,Bay,Kurow Ay Dhuubay Health Post,Health Post,NGO,2.7661,44.1299,Other
+248,Bay,Kurto Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.5797,43.3552,GPS
+249,Bay,Labaatan Jirow Health Post,Health Post,NGO,3.5385,43.7572,Other
+250,Bay,Labi Saab Health Post,Health Post,,2.7954,42.711,Other
+251,Bay,Lafaale Health Post,Health Post,NGO,3.2153,43.5711,Other
+252,Bay,Liimaale Health Post,Health Post,NGO,2.8887,44.0158,GPS
+253,Bay,Lug-Habar Health Post,Health Post,NGO,2.918,43.9315,GPS
+254,Bay,Manaas Health Post,Health Post,NGO,2.8936,43.4666,Other
+255,Bay,Midow Health Post,Health Post,NGO,3.1734,43.4667,Other
+256,Bay,Milleel Health Post,Health Post,NGO,3.436,43.588,Other
+257,Bay,Mintaan Health Post,Health Post,NGO,3.3311,43.5284,Other
+258,Bay,Mooda-Mooda Health Post,Health Post,NGO,3.007,43.8494,Other
+259,Bay,Qahirayary Health Post,Health Post,NGO,3.2509,43.4458,Other
+260,Bay,Qansax Dheere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.8712,43.0043,GPS
+261,Bay,Raydabow Health Post,Health Post,NGO,2.8556,44.1428,Other
+262,Bay,Seydhelow Health Post,Health Post,NGO,3.3685,43.6726,Other
+263,Bay,Shabeelow Health Post,Health Post,NGO,2.9561,43.4869,Other
+264,Bay,Shiidlow (Afar Shiidow) Health Post,Health Post,NGO,2.8455,44.0836,Other
+265,Bay,Toor-Toorow Health Post,Health Post,NGO,2.7628,44.1954,Other
+266,Bay,Toos Weyne Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.0898,43.2058,GPS
+267,Bay,Towsi-Libee Health Post,Health Post,,2.8579,42.6724,Other
+268,Bay,Tufka Health Post,Health Post,,2.6229,42.8895,Other
+269,Bay,Ufurow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7622,42.8868,GPS
+270,Bay,Uusley Health Post,Health Post,NGO,3.2856,43.6663,Other
+271,Bay,Uuslli Health Post,Health Post,NGO,3.386,43.4996,Other
+272,Bay,Waamo Health Post,Health Post,NGO,3.0341,44.0485,GPS
+273,Bay,Wafdhey Weyn Health Post,Health Post,NGO,2.8729,44.1184,Other
+274,Bay,Walaq Health Post,Health Post,NGO,3.4952,43.2258,GPS
+275,Bay,Warabale Health Post,Health Post,NGO,2.9104,43.8097,GPS
+276,Bay,Weel Dink Health Post,Health Post,,2.6943,42.7348,Other
+277,Bay,Wegelow Gaduudow Health Post,Health Post,NGO,3.0787,44.1592,GPS
+278,Bay,Xagarka Health Post,Health Post,NGO,2.896,43.3189,GPS
+279,Bay,Yuubka Health Post,Health Post,NGO,2.6265,44.0113,Other
+280,Galgadud,Balanbal Health Centre,Health Centre,,5.6661,45.9588,Other
+281,Galgadud,Docole Lgr Health Centre,Health Centre,,6.3419,47.001,Other
+282,Galgadud,Elbur Health Centre,Health Centre,,5.0789,46.4312,Other
+283,Galgadud,Marsamage Health Centre,Health Centre,,5.7137,47.2247,Other
+284,Galgadud,Wargalo Health Centre,Health Centre,,6.2372,47.4864,Other
+285,Galgaduud,Adado Health Post,Health Post,NGO,6.1457,46.6271,GPS
+286,Galgaduud,Cabudwaaq Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.189,46.3317,Other
+287,Galgaduud,Cadaado Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.1381,46.6255,GPS
+288,Galgaduud,Ceel Buur Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.6844,46.6174,GPS
+289,Galgaduud,Dhusamareb /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,5.5359,46.3847,GPS
+290,Galgaduud,El-Dere Hospital,Hospital,NGO,3.8491,47.1803,Other
+291,Galgaduud,El-Dere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8489,47.181,Other
+292,Galgaduud,Galcad Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0226,46.618,Other
+293,Galgaduud,Gelinsor Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.4289,46.7011,GPS
+294,Galgaduud,Masage weyn Hospital,Hospital,NGO,3.7046,47.015,Other
+295,Galgaduud,Wah-Weyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8325,47.1469,Other
+296,Gedo,Aanole Health Post,Health Post,,2.0101,42.2857,Other
+297,Gedo,Abid Keyr Health Post,Health Post,,3.8881,42.5321,GPS
+298,Gedo,Ayub Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,2.3407,42.2767,Google Earth
+299,Gedo,Baardheere SFC Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7877,41.0688,GPS
+300,Gedo,Baghdad Health Post,Health Post,,2.1677,42.1578,Other
+301,Gedo,Ban Munduli Health Post,Health Post,,3.7565,42.557,GPS
+302,Gedo,Bardera 2 Health Centre,Health Centre,,2.1869,41.5925,Other
+303,Gedo,Bardhere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.3397,42.285,GPS
+304,Gedo,Beled Aamin Health Post,Health Post,,3.9562,41.8939,GPS
+305,Gedo,Belet Hawa Hospital,Hospital,NGO,3.7807,41.8944,GPS
+306,Gedo,Belet Hawa Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.9294,41.8734,Other
+307,Gedo,Belet Xaawo Maternal & Child Health Centre,Maternal & Child Health Centre,,3.9302,41.8755,GPS
+308,Gedo,Buraa Health Post,Health Post,,3.1684,42.1412,GPS
+309,Gedo,Burdubo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1691,42.4941,GPS
+310,Gedo,Busleey Health Post,Health Post,,2.3284,42.369,Other
+311,Gedo,Buulo Goof Health Post,Health Post,,2.495,42.2827,Other
+312,Gedo,Buur Bakaar / War Caddey Health Post,Health Post,NGO,4.0259,43.0447,GPS
+313,Gedo,Carro Case Health Post,Health Post,,3.6756,42.0254,GPS
+314,Gedo,Ceel Boon Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.7322,42.9112,GPS
+315,Gedo,Ceel Gadde Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.0349,41.8661,GPS
+316,Gedo,Ceel-Dhanaawe Health Post,Health Post,NGO,3.7705,42.9477,GPS
+317,Gedo,Daabley Farleysaan Health Post,Health Post,,3.232,42.0236,GPS
+318,Gedo,Daar Health Post,Health Post,,2.5693,42.1578,Other
+319,Gedo,Damasa Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7877,40.9983,GPS
+320,Gedo,Deegreebe Health Post,Health Post,,4.0354,42.3951,GPS
+321,Gedo,Dhubaa Health Post,Health Post,,3.0889,42.2854,GPS
+322,Gedo,Dogob Health Post,Health Post,,3.7638,42.3607,GPS
+323,Gedo,Dolow SFC/OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1636,42.0762,Other
+324,Gedo,Dooryaanley Health Post,Health Post,,3.7471,42.5272,GPS
+325,Gedo,EL-Wak SFC Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7899,41.0102,Other
+326,Gedo,Faan Weyn Health Post,Health Post,,2.8968,42.2814,GPS
+327,Gedo,Gaddoondhowe Health Post,Health Post,,3.5693,41.8213,GPS
+328,Gedo,Garbahaarey SFC Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.328,42.2197,GPS
+329,Gedo,Garbaharey Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.3289,42.2224,Other
+330,Gedo,Gedweine Health Post,Health Post,NGO,4.0293,42.2943,GPS
+331,Gedo,Geer Boolow Health Post,Health Post,,3.911,42.5125,GPS
+332,Gedo,Geliyow Health Post,Health Post,NGO,3.8253,42.99,GPS
+333,Gedo,Godey Health Post,Health Post,,3.3487,42.0626,Other
+334,Gedo,Gubataay Health Post,Health Post,,4.1345,42.2107,GPS
+335,Gedo,Gumarayaale Health Post,Health Post,NGO,3.91,43.0062,GPS
+336,Gedo,Guraa Health Post,Health Post,,3.5718,42.0924,Other
+337,Gedo,Haanoy Health Post,Health Post,,3.755,42.537,GPS
+338,Gedo,Hagar Gandoob Health Post,Health Post,,2.3135,42.1786,Other
+339,Gedo,Halbow 1 Health Post,Health Post,,3.8563,42.534,GPS
+340,Gedo,Hamara Health Post,Health Post,,4.0406,42.3506,GPS
+341,Gedo,Harreri Tuur Health Post,Health Post,,3.7361,42.5413,GPS
+342,Gedo,Heli Shiid 2 Health Post,Health Post,,3.8294,42.5638,GPS
+343,Gedo,Hergaanta Maadey/Bali Do Health Post,Health Post,,2.2094,42.2649,Other
+344,Gedo,Huufrey Wiin Health Post,Health Post,,3.2441,42.5069,GPS
+345,Gedo,Ir-Weer Health Post,Health Post,NGO,3.6474,42.9555,GPS
+346,Gedo,Jungal Health Post,Health Post,,2.373,42.0448,Other
+347,Gedo,Karaban Health Post,Health Post,,3.9674,42.7081,Other
+348,Gedo,Khadijo Hagi - Bulo Haji Health Post,Health Post,,3.629,41.6947,Other
+349,Gedo,Khalili Hospital,Hospital,NGO,3.7806,41.8944,GPS
+350,Gedo,Laaf Maakade Health Post,Health Post,NGO,3.5935,42.9274,GPS
+351,Gedo,Lugh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8,42.5446,Other
+352,Gedo,Luuq Health Post,Health Post,NGO,3.8357,42.5793,GPS
+353,Gedo,Luuq Hospital,Hospital,NGO,3.8001,42.5445,GPS
+354,Gedo,Maganey Health Post,Health Post,,3.707,42.5207,GPS
+355,Gedo,Malkaa Hidaa Health Post,Health Post,,3.3439,42.4816,GPS
+356,Gedo,Malkaariyey Health Post,Health Post,,3.9771,41.9131,GPS
+357,Gedo,Malmalley Health Post,Health Post,,3.8922,41.934,GPS
+358,Gedo,Maracade Health Post,Health Post,,3.4154,42.1416,GPS
+359,Gedo,Maykaareebi Health Post,Health Post,,3.4387,42.2816,GPS
+360,Gedo,Mira Dhuubow Health Post,Health Post,,3.923,42.5376,GPS
+361,Gedo,Odaa Health Post,Health Post,,3.9954,41.9502,GPS
+362,Gedo,Qooney Health Post,Health Post,,4.0894,42.6248,Other
+363,Gedo,Safarnooley Health Post,Health Post,NGO,3.7404,43.0011,GPS
+364,Gedo,Samaroole Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7929,41.2275,GPS
+365,Gedo,Shaatilow Health Post,Health Post,,3.9006,42.4276,GPS
+366,Gedo,Sunya Health Post,Health Post,,3.2605,42.492,GPS
+367,Gedo,Sur Gaduud Health Post,Health Post,,4.0949,42.0288,GPS
+368,Gedo,Tawakal Health Post,Health Post,,2.3432,42.1132,Other
+369,Gedo,Tawakal Health Post,Health Post,,3.6623,42.5001,GPS
+370,Gedo,Tuulo Barwaaqo Tubaalo Ba Health Post,Health Post,,3.4976,42.1575,GPS
+371,Gedo,Uunsi Weyn Health Post,Health Post,,4.0223,41.9541,GPS
+372,Gedo,Xero Koowaad Health Post,Health Post,,3.7945,42.5298,GPS
+373,Gedo,Yurkud Health Post,Health Post,,3.5205,42.7707,GPS
+374,Hiiran,Ceel Idaad Health Post,Health Post,,4.6687,44.8824,Other
+375,Hiiran,Dabayoodle Health Centre,Health Centre,,4.0544,45.4247,Other
+376,Hiiran,Farlibaax Health Post,Health Post,,4.8553,44.8424,Other
+377,Hiiran,Kirkiri Health Post,Health Post,,4.703,44.6882,Other
+378,Hiiran,Miir Gurac Health Post,Health Post,,5.177,45.522,Other
+379,Hiiran,Moqokori Health Centre,Health Centre,,4.0383,46.1015,Other
+380,Hiraan,Alola'Ad Health Post,Health Post,NGO,4.7367,45.2062,GPS
+381,Hiraan,Amalow Health Post,Health Post,NGO,4.605,45.2524,Other
+382,Hiraan,Baacyar Health Post,Health Post,NGO,4.5015,45.2747,Other
+383,Hiraan,Ba'Ad Buko Health Post,Health Post,NGO,4.8262,45.1702,Other
+384,Hiraan,Baarey Health Post,Health Post,,4.5502,45.2788,Other
+385,Hiraan,Baaslaawe Health Post,Health Post,,4.8287,45.177,Other
+386,Hiraan,Beer Xaano Health Post,Health Post,,4.5339,45.3421,Other
+387,Hiraan,Beer-Gadiid Health Post,Health Post,,5.083,45.3143,Other
+388,Hiraan,Beled Salaama Health Post,Health Post,,4.8894,45.0398,Other
+389,Hiraan,Belet Aqable Maternal & Child Health Centre,Maternal & Child Health Centre,,4.7351,45.2065,GPS
+390,Hiraan,Belet Weyn Hospital,Hospital,NGO,4.7297,45.2081,Other
+391,Hiraan,Belet Weyne (Or Koshin) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7351,45.2066,GPS
+392,Hiraan,Booco Maternal & Child Health Centre,Maternal & Child Health Centre,,3.3644,42.3119,Other
+393,Hiraan,Bulo Burti Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8536,45.566,GPS
+394,Hiraan,Bundoweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7303,45.2075,GPS
+395,Hiraan,Buq Koosaar Health Post,Health Post,,4.5126,44.8181,Other
+396,Hiraan,Buqaqable Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0578,45.253,Other
+397,Hiraan,Cagoboy Health Post,Health Post,,4.2633,45.3909,Other
+398,Hiraan,Caloola Cad Health Post,Health Post,,4.6609,45.2127,Other
+399,Hiraan,Ceel Cali/El Uared Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1949,44.9872,GPS
+400,Hiraan,Cel Dhere Health Post,Health Post,,4.4197,44.8732,Other
+401,Hiraan,Deefoow Health Post,Health Post,,4.9355,45.0342,Other
+402,Hiraan,Dhagran Health Post,Health Post,NGO,4.5354,45.2894,Other
+403,Hiraan,Dharkeynley Health Post,Health Post,,4.7922,45.1996,Other
+404,Hiraan,Halgan Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.2117,45.5625,Other
+405,Hiraan,IMC Bundo Weyne Maternal & Child Health Centre,Maternal & Child Health Centre,,4.7325,45.2083,GPS
+406,Hiraan,IMC Kooshin Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7387,45.2049,GPS
+407,Hiraan,Jalalaqsi Health Post,Health Post,NGO,3.3759,45.6008,GPS
+408,Hiraan,Jalalaqsi Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.3795,45.5994,GPS
+409,Hiraan,KM-300 Health Post,Health Post,NGO,4.4925,45.3428,Other
+410,Hiraan,Leebow Health Post,Health Post,NGO,4.7964,45.1956,Other
+411,Hiraan,Macaqal Health Post,Health Post,,4.5889,45.2387,Other
+412,Hiraan,Maclow Health Post,Health Post,,4.6437,45.2371,Other
+413,Hiraan,Moqokori /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.3924,46.0892,GPS
+414,Hiraan,Nuur Fanax Health Post,Health Post,,4.4145,45.3923,Other
+415,Hiraan,Qolow Health Post,Health Post,,4.4667,45.2789,Other
+416,Hiraan,Qoydo Health Post,Health Post,NGO,4.8801,45.0874,Other
+417,Hiraan,Quracle Health Post,Health Post,NGO,3.2597,45.4957,GPS
+418,Hiraan,Quracleey Health Post,Health Post,NGO,4.7063,45.2108,Other
+419,Hiraan,Tuulo Hiiraan Health Post,Health Post,,4.8324,45.2139,Other
+420,Lower Juba,Afmadow Eirg Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.5149,42.073,Other
+421,Lower Juba,Afrec Kismayo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3617,42.5487,Google Earth
+422,Lower Juba,Badadai Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-1.0354,41.5005,GPS
+423,Lower Juba,Bilis Qooqaani Health Centre,Health Centre,,0.2415,41.6758,Other
+424,Lower Juba,Bulo Haji SRCS Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.632,41.9841,GPS
+425,Lower Juba,Calanley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3631,42.5445,Google Earth
+426,Lower Juba,Dhoblei Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.4063,41.0124,Other
+427,Lower Juba,Fanole Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3603,42.5463,GPS
+428,Lower Juba,Fanole Muslim Aid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.7516,42.6506,Other
+429,Lower Juba,Farjano Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3524,42.5392,Other
+430,Lower Juba,Farjano SRCS Maternal & Child Health Centre,Maternal & Child Health Centre,,-0.3604,42.5461,GPS
+431,Lower Juba,Gadudai Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.072,42.5706,Other
+432,Lower Juba,Garsay Kuusa Health Centre,Health Centre,,-0.758,41.6044,Other
+433,Lower Juba,Hagar Sordes Maternal & Child Health Centre,Maternal & Child Health Centre,,0.8323,41.9706,Other
+434,Lower Juba,Jamame /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.0692,42.7382,GPS
+435,Lower Juba,Kisima Health Post,Health Post,NGO,1.7246,44.4526,GPS
+436,Lower Juba,Kudha Health Post,Health Post,NGO,-1.5806,41.62,GPS
+437,Lower Juba,Mugambo Health Post,Health Post,NGO,0.1562,42.7177,GPS
+438,Lower Juba,Muslim Aid-Jamaame Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.0691,42.7382,GPS
+439,Lower Shabelle,Adan Ade Hospital Merka,Hospital,,1.7553,44.6553,Other
+440,Lower Shabelle,Afgoi District Hospital,District Hospital,NGO,1.9819,44.9854,Other
+441,Lower Shabelle,Afgoi Yare Health Post,Health Post,,2.2835,45.1695,Other
+442,Lower Shabelle,Afqoi /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.1416,45.1187,Other
+443,Lower Shabelle,Agriculture Uv. COSV Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.1076,45.1502,Other
+444,Lower Shabelle,Al-Hijiira Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1423,45.117,Google Earth
+445,Lower Shabelle,Arbis /OPD Swc Maternal & Child Health Centre,Maternal & Child Health Centre,,2.122,45.169,Other
+446,Lower Shabelle,Aw Dhegle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.9794,44.8313,GPS
+447,Lower Shabelle,Ayub Orphanage-Wfl Health Post,Health Post,NGO,1.7157,44.7697,GPS
+448,Lower Shabelle,Bananey Health Post,Health Post,,1.6101,44.2278,Other
+449,Lower Shabelle,Barawa Hospital,Hospital,NGO,1.1148,44.0304,GPS
+450,Lower Shabelle,Bariire Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0471,44.8983,Other
+451,Lower Shabelle,Beraha OPD Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1066,45.1552,Other
+452,Lower Shabelle,Bulo Kadil Health Centre,Health Centre,,2.1875,44.825,Other
+453,Lower Shabelle,Busley Health Post,Health Post,,1.8536,44.7476,GPS
+454,Lower Shabelle,Buulo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.5985,44.2194,GPS
+455,Lower Shabelle,Ceel Sheik Health Post,Health Post,MoHL,1.4949,44.4711,GPS
+456,Lower Shabelle,Daryeel Hospital Lafoole,Hospital,,2.0178,45.2547,Other
+457,Lower Shabelle,Digfer Hospital,Hospital,,2.0412,45.3041,GPS
+458,Lower Shabelle,Elasha Maternal & Child Health Centre,Maternal & Child Health Centre,,2.0834,45.2068,Google Earth
+459,Lower Shabelle,Farhano Health Post,Health Post,,1.178,43.7236,Other
+460,Lower Shabelle,Garasbaaley OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0693,45.2698,Other
+461,Lower Shabelle,Garasweyn /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.9301,44.9352,Other
+462,Lower Shabelle,Gaywarow Health Post,Health Post,,1.7671,44.5699,Other
+463,Lower Shabelle,Giumale Opd Islamic Relief Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.3117,44.7077,Other
+464,Lower Shabelle,Golweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.6572,44.5796,GPS
+465,Lower Shabelle,H/Wadag Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7201,44.7754,GPS
+466,Lower Shabelle,Hayat 2  Hospital,Hospital,NGO,1.611,44.3299,GPS
+467,Lower Shabelle,Horsed Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7508,44.6279,GPS
+468,Lower Shabelle,Janale Health Post,Health Post,NGO,1.7353,44.606,GPS
+469,Lower Shabelle,Janale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.806,44.6939,GPS
+470,Lower Shabelle,K- 13 Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0703,45.2365,Other
+471,Lower Shabelle,K-50 Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.9851,44.9856,GPS
+472,Lower Shabelle,Keysaney Hospital,Hospital,NGO,2.6242,45.3225,GPS
+473,Lower Shabelle,Kurtunwaarey Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.611,44.3303,GPS
+474,Lower Shabelle,Lafole Cosv Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0996,45.1635,Other
+475,Lower Shabelle,Lafole Orph.Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.1064,45.1534,Other
+476,Lower Shabelle,Lafoole Daryeel  Hijra Health Post,Health Post,,2.0787,45.1718,GPS
+477,Lower Shabelle,Marerey Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1347,45.0561,Other
+478,Lower Shabelle,Marka Maternal & Child Health Centre,Maternal & Child Health Centre,,1.7201,44.78,GPS
+479,Lower Shabelle,Marka Regional Hospital,Regional Hospital,NGO,1.7133,44.7657,GPS
+480,Lower Shabelle,Medina Hospital,Hospital,NGO,2.2204,45.2259,Other
+481,Lower Shabelle,Mushani Health Post,Health Post,,1.7779,44.6572,GPS
+482,Lower Shabelle,Qorioley Health Post,Health Post,NGO,1.7858,44.5312,GPS
+483,Lower Shabelle,Qoryoley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7859,44.5313,GPS
+484,Lower Shabelle,Sabir OPD Islamic Relief Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1296,45.0359,Other
+485,Lower Shabelle,Sablale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.3052,43.889,GPS
+486,Lower Shabelle,Shalambod Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.713,44.6952,GPS
+487,Lower Shabelle,Sigale Health Post,Health Post,,1.854,44.7088,GPS
+488,Lower Shabelle,Somalia Army Hospital,Hospital,,2.0471,45.308,GPS
+489,Lower Shabelle,Swisso Health Post,Health Post,NGO,2.6565,44.8805,GPS
+490,Lower Shabelle,Wadajir Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7145,44.7695,GPS
+491,Lower Shabelle,Wagaade Health Post,Health Post,,1.7538,44.6422,GPS
+492,Lower Shabelle,Wanla Weyn Health Post,Health Post,NGO,2.6195,44.8936,GPS
+493,Middle Juba,Aminow Health Centre,Health Centre,,0.3783,42.8298,Other
+494,Middle Juba,Arabow Health Post,Health Post,,1.4152,42.9282,Other
+495,Middle Juba,Banaada Srcs Maternal & Child Health Centre,Maternal & Child Health Centre,,1.902,42.5645,Other
+496,Middle Juba,Bu'Aale Health Post,Health Post,NGO,1.2448,42.5732,Other
+497,Middle Juba,Cilmi Health Post,Health Post,,1.3795,42.3749,Other
+498,Middle Juba,Gaduduy Health Post,Health Post,NGO,1.8119,42.2957,GPS
+499,Middle Juba,Gobate Health Post,Health Post,,1.3497,42.4701,Other
+500,Middle Juba,Goljano Health Post,Health Post,,1.4449,42.4106,Other
+501,Middle Juba,Jilib 2 (East) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.4934,42.7701,GPS
+502,Middle Juba,Jilib Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.4935,42.7702,GPS
+503,Middle Juba,Mareerey Maternal & Child Health Centre,Maternal & Child Health Centre,,0.4294,42.7154,GPS
+504,Middle Juba,Sakow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.8168,42.6075,GPS
+505,Middle Juba,Salagle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.2447,42.5731,GPS
+506,Middle Juba,Xaramka Health Centre,Health Centre,,0.6044,43.1451,Other
+507,Middle Shabelle,Adale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.76,46.31,GPS
+508,Middle Shabelle,Adan Yabaal Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.7784,46.2464,Other
+509,Middle Shabelle,Bal`Ad Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.6267,45.5048,GPS
+510,Middle Shabelle,Balad Opd/<12Yrs Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.3593,45.3896,Other
+511,Middle Shabelle,Biyo Cade Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,2.8111,45.3278,Other
+512,Middle Shabelle,Bullo -Sheekh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.78,45.49,GPS
+513,Middle Shabelle,Buurane Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,2.9647,45.5119,GPS
+514,Middle Shabelle,Hawadley Inter. Sos Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7806,45.5004,GPS
+515,Middle Shabelle,Mahaday Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.9704,45.5347,Other
+516,Middle Shabelle,Warsheikh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.2983,45.798,Other
+517,Mudug,Amara Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.6542,47.8572,GPS
+518,Mudug,Ba'Dweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.1921,47.5263,GPS
+519,Mudug,Bajeelo Health Centre,Health Centre,,5.766,47.6863,Other
+520,Mudug,Balambal Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.449,48.1423,Other
+521,Mudug,Bali Busle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.0951,48.1575,GPS
+522,Mudug,Bayra Health Post,Health Post,NGO,6.95,47.31,GPS
+523,Mudug,Bursalah Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.1742,47.2453,GPS
+524,Mudug,Camaara Health Centre,Health Centre,,5.1229,47.9087,Other
+525,Mudug,Ceel-Dibir Health Centre,Health Centre,,5.8469,48.3382,Other
+526,Mudug,Dabagalo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.9217,47.6652,Other
+527,Mudug,Docol Health Centre,Health Centre,,6.4323,47.4674,Other
+528,Mudug,Gaalkacyo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.7692,47.4306,GPS
+529,Mudug,Galdogob District Hospital,Hospital,MoHL,6.9903,47.1656,GPS
+530,Mudug,Galdogob Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.9947,47.0906,GPS
+531,Mudug,Galkayo (Gmc) (Day Clinic & Maternity) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.76,47.42,GPS
+532,Mudug,Galkayo Medical Centre Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.7964,47.422,GPS
+533,Mudug,Harar Dere Hospital,Hospital,NGO,4.6517,47.8584,Other
+534,Mudug,Harfo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.3483,47.6206,GPS
+535,Mudug,Jariiban District Hospital,Hospital,MoHL,7.2135,48.851,GPS
+536,Mudug,Jole Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1612,46.9124,Other
+537,Mudug,Qarsooni Health Centre,Health Centre,,5.8231,47.8481,Other
+538,Mudug,Usgure Health Post,Health Post,NGO,7.5183,49.416,Other
+539,Mudug,Xaraf Health Post,Health Post,MoHL,4.67,47.77,GPS
+540,Nugaal,Awrculus Maternal & Child Health Centre,Maternal & Child Health Centre,,8.0577,48.6077,GPS
+541,Nugaal,Bandunbuto Health Post,Health Post,,8.5042,49.4129,Other
+542,Nugaal,Burtinle District Hospital,Hospital,MoHL,7.7344,47.8831,Other
+543,Nugaal,Burtinle Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,7.6455,47.8315,GPS
+544,Nugaal,Cuun Health Post,Health Post,,8.8166,48.8865,Other
+545,Nugaal,Dangorayo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.7261,49.3393,Other
+546,Nugaal,Dhiganle Health Post,Health Post,,7.8081,49.5021,Other
+547,Nugaal,Eyl District Hospital,Hospital,MoHL,7.96,49.84,GPS
+548,Nugaal,Eyl Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.9794,49.8177,GPS
+549,Nugaal,Gambool Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.4059,48.4819,GPS
+550,Nugaal,Garowe Hospital,Hospital,MoHL,8.4071,48.4773,GPS
+551,Nugaal,Garowe Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.4056,48.4885,GPS
+552,Nugaal,Godobjirin Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.6415,47.7837,GPS
+553,Nugaal,Hasbahale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.5792,48.6161,GPS
+554,Nugaal,Health Post,Health Post,,8.0215,49.0083,GPS
+555,Nugaal,Jalam Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.8659,48.0382,GPS
+556,Nugaal,Jeriban Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.75,48.67,GPS
+557,Nugaal,Kalabayr Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,7.9831,48.1047,GPS
+558,Nugaal,Magacley Health Post,Health Post,MoHL,7.8439,47.903,GPS
+559,Nugaal,Qarxis Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.9839,48.1031,GPS
+560,Nugaal,Sinujif Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.5329,48.9845,GPS
+561,Nugaal,Xamur Health Post,Health Post,,8.7095,48.7407,Other
+562,Sanaag,Alhamdulilah Health Post,Health Post,MoHL,10.0847,49.0288,Other
+563,Sanaag,Badhan Hospital,Hospital,MoHL,10.7132,48.3331,GPS
+564,Sanaag,Badhan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.7132,48.3059,Other
+565,Sanaag,Barwago Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5572,48.4876,GPS
+566,Sanaag,Buraan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.2184,48.7688,GPS
+567,Sanaag,Carmaale Health Post,Health Post,MoHL,10.4787,47.959,Other
+568,Sanaag,Ceel Afweyn Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.9303,47.2168,GPS
+569,Sanaag,Ceel-Afweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.9276,47.2154,Other
+570,Sanaag,Ceelbuh Health Post,Health Post,MoHL,10.2255,48.3099,GPS
+571,Sanaag,Ceerigaabo Kulmiye Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.6203,47.3685,GPS
+572,Sanaag,Cerigabo Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.6218,47.3681,Other
+573,Sanaag,Dahahar Hospital Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.748,48.8213,GPS
+574,Sanaag,Dararweyne Health Post,Health Post,MoHL,9.7574,47.5272,GPS
+575,Sanaag,Dhahar Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.748,48.8199,Other
+576,Sanaag,Dhur Cilaan Health Post,Health Post,MoHL,10.1265,46.3513,GPS
+577,Sanaag,Fiqifuliye Health Post,Health Post,MoHL,10.027,47.7817,GPS
+578,Sanaag,Gal-Shiikh Health Post,Health Post,MoHL,10.068,47.2048,GPS
+579,Sanaag,Garadag Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.4885,46.8673,GPS
+580,Sanaag,Gar'Adag Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.487,46.8669,Other
+581,Sanaag,Gud-Caanood Health Post,Health Post,MoHL,10.11,47.29,GPS
+582,Sanaag,Gudmo Biyo Cas Health Post,Health Post,MoHL,10.58,46.95,GPS
+583,Sanaag,Hadaaftimo Maternal & Child Health Centre,Maternal & Child Health Centre,,10.7654,48.105,GPS
+584,Sanaag,Hadaftimo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.7651,48.1052,Other
+585,Sanaag,Hidda  Health Post,Health Post,MoHL/NGO,-0.9333,41.1523,Google Earth
+586,Sanaag,Jidali Health Post,Health Post,MoHL,10.72,47.67,GPS
+587,Sanaag,Juurile Health Post,Health Post,MoHL,10.3868,49.0716,Other
+588,Sanaag,Kulmiye Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.7534,47.5497,GPS
+589,Sanaag,Laasqoray Hospital,Hospital,MoHL,11.16,48.1949,GPS
+590,Sanaag,Maydh Health Post,Health Post,MoHL,10.9734,47.1059,GPS
+591,Sanaag,Rugay Health Post,Health Post,MoHL,10.83,47.3,GPS
+592,Sanaag,Shimbirale Health Post,Health Post,MoHL,10.1398,47.909,GPS
+593,Sanaag,Waciya Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0134,49.045,Other
+594,Sanaag,Xiis Health Post,Health Post,MoHL,10.8691,46.9082,GPS
+595,Sanaag,Yube Health Post,Health Post,MoHL,10.73,47.96,GPS
+596,Sanaag,Yufle Health Post,Health Post,MoHL,10.377,47.1957,Other
+597,Sool,Adhicadeeye Health Post,Health Post,MoHL,8.67,47.14,GPS
+598,Sool,Ainabo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.9576,46.4125,GPS
+599,Sool,Awr Bogeys Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5678,47.7555,Other
+600,Sool,Boame Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.3963,47.9357,Other
+601,Sool,Bohol Health Post,Health Post,MoHL,9.3615,47.3024,GPS
+602,Sool,Carrooley Health Post,Health Post,MoHL,8.85,48.14,GPS
+603,Sool,Dabataag Health Post,Health Post,MoHL,8.1134,47.1601,GPS
+604,Sool,Dami Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5598,44.0668,Other
+605,Sool,Dan Health Post,Health Post,MoHL,8.1566,47.6896,Other
+606,Sool,Dhaban-Saar Health Post,Health Post,MoHL,8.4767,47.3565,GPS
+607,Sool,Dhanaano Health Post,Health Post,MoHL,9.4729,46.6275,GPS
+608,Sool,Dhummay Health Post,Health Post,MoHL,9.1074,48.5126,GPS
+609,Sool,Farhiddin Health Post,Health Post,MoHL,8.0694,47.9822,GPS
+610,Sool,Godaalo Health Post,Health Post,MoHL,9.08,47.93,GPS
+611,Sool,Gowsa Weyne Health Centre,Health Centre,,9.0786,46.7726,Other
+612,Sool,Hudun Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.1544,47.4772,GPS
+613,Sool,Kalabaydh Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.2422,47.2266,GPS
+614,Sool,Karindabayl Weyn Health Post,Health Post,MoHL,8.12,47.51,GPS
+615,Sool,Karingorfood Health Post,Health Post,MoHL,8.12,47.77,GPS
+616,Sool,Korile Health Post,Health Post,MoHL,8.0047,47.5653,GPS
+617,Sool,Las-Anod Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.4816,47.3557,Other
+618,Sool,Oog Health Post,Health Post,MoHL,8.9348,46.6184,GPS
+619,Sool,Sahader Health Post,Health Post,MoHL,8.0044,47.1025,GPS
+620,Sool,Sarmanyo Health Post,Health Post,MoHL,9.4892,47.9895,GPS
+621,Sool,Shaxda Health Post,Health Post,NGO,9.1781,48.9049,Google Earth
+622,Sool,Taleeh Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.1488,48.4209,GPS
+623,Sool,Wadamago Health Post,Health Post,MoHL,8.93,46.24,GPS
+624,Sool,War Idaad Health Post,Health Post,MoHL,9.28,46.25,GPS
+625,Sool,Wiriir Health Post,Health Post,MoHL,9.466,46.186,GPS
+626,Sool,Xalin Health Post,Health Post,MoHL,9.1,48.62,GPS
+627,Togdheer,Cali Sahid Health Centre,Health Centre,,8.5312,45.5257,Other
+628,Togdheer,Daryaleh Health Centre,Health Centre,,8.4456,45.7708,Other
+629,Togdheer,Dhariyalay Health Centre,Health Centre,,8.417,45.8469,Other
+630,Togdheer,Dhoqoshay Health Centre,Health Centre,,8.5241,45.7042,Other
+631,Togdheer,Harada Health Centre,Health Centre,,8.7787,45.4448,Other
+632,Toghdheer,Adan Suleiman Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5275,45.5375,GPS
+633,Toghdheer,Balleh Dig Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.3686,45.9142,Other
+634,Toghdheer,Barrcad Health Post,Health Post,MoHL,8.8821,45.0995,GPS
+635,Toghdheer,Buhodle District Hospital,District Hospital,MoHL,8.2516,46.3157,Other
+636,Toghdheer,Burco Hospital,Hospital,MoHL,9.5346,45.5379,GPS
+637,Toghdheer,Buroa Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5203,45.5727,Other
+638,Toghdheer,Dharkayn-Geenyo Health Post,Health Post,MoHL,8.0031,46.995,Other
+639,Toghdheer,Duruqsi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.5177,45.4615,Other
+640,Toghdheer,Fiqi Ayuub Health Post,Health Post,MoHL,9.9367,46.0255,Other
+641,Toghdheer,Gedeys Health Post,Health Post,MoHL,9.95,45.48,GPS
+642,Toghdheer,Haro Shiikh Health Post,Health Post,MoHL,9.3163,44.7576,GPS
+643,Toghdheer,Huddisa Health Post,Health Post,MoHL,9.9994,45.1644,GPS
+644,Toghdheer,Kalbarre Health Post,Health Post,MoHL,9.9052,45.5712,Other
+645,Toghdheer,Kenya Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.5182,45.5308,GPS
+646,Toghdheer,Kossar Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.5783,45.5196,Google Earth
+647,Toghdheer,Lalays Health Post,Health Post,MoHL,10.0795,45.1526,GPS
+648,Toghdheer,Nasiye Health Post,Health Post,MoHL,8.7488,45.6356,Other
+649,Toghdheer,Odwieyne Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.4086,45.0617,GPS
+650,Toghdheer,Qoryale Health Post,Health Post,MoHL,9.0634,45.9706,Other
+651,Toghdheer,Shansa Cade Health Post,Health Post,MoHL,8.6544,45.9331,Other
+652,Toghdheer,Sheikh Hospital,Hospital,MoHL,9.9299,45.1913,GPS
+653,Toghdheer,Sugsade Health Post,Health Post,MoHL,9.9414,45.3293,GPS
+654,Toghdheer,Teysa Health Post,Health Post,MoHL,9.5675,43.6728,Other
+655,Toghdheer,Warabeye Health Post,Health Post,MoHL,8.8763,45.5769,Other
+656,Toghdheer,Warcimraan Health Post,Health Post,MoHL,8.8006,45.8924,Other
+657,Toghdheer,Widhwidh Health Post,Health Post,MoHL,8.4541,46.7068,Other
+658,Toghdheer,X/Salax Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.594,45.237,GPS
+659,Toghdheer,Xaaxi Health Post,Health Post,MoHL,9.351,44.9655,GPS
+660,Toghdheer,Xidh-Xidh Health Post,Health Post,MoHL,8.3736,46.9862,Other
+661,Toghdheer,Yagori Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.7545,46.9628,Other
+662,Toghdheer,Yarowe Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.4336,45.6753,Other
+663,West Galbeed,Adadley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.7664,44.691,GPS
+664,West Galbeed,Agabar Health Post,Health Post,,9.9262,43.9159,GPS
+665,West Galbeed,Allaybaday Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.3973,43.5235,GPS
+666,West Galbeed,Arabsiyo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.67,43.76,GPS
+667,West Galbeed,Ayaha Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.3224,44.0208,Other
+668,West Galbeed,Bali-Abene Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.2967,44.53,Other
+669,West Galbeed,Bali-Gubadle Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.0109,44.0192,Other
+670,West Galbeed,Berbera Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.4458,45.0208,Other
+671,West Galbeed,Berbera Regional Hospital,Regional Hospital,MoHL,10.387,45.0129,GPS
+672,West Galbeed,Boodhley Health Post,Health Post,MoHL,9.6007,43.5428,GPS
+673,West Galbeed,Booror Health Post,Health Post,,9.637,43.5724,GPS
+674,West Galbeed,Boqor Health Post,Health Post,MoHL,9.637,43.5725,GPS
+675,West Galbeed,Bullaxaar Health Post,Health Post,MoHL,10.3906,44.4024,Other
+676,West Galbeed,Buqdhaha Health Post,Health Post,,9.8953,43.5809,GPS
+677,West Galbeed,Bus Health Post,Health Post,MoHL,9.8571,43.6744,GPS
+678,West Galbeed,Busley Health Post,Health Post,NGO,9.553,43.6932,GPS
+679,West Galbeed,Cali Haidh Health Post,Health Post,MoHL,10.0428,43.7845,GPS
+680,West Galbeed,Ceel Bardale Health Post,Health Post,MoHL,9.8252,43.4765,GPS
+681,West Galbeed,Ceel Ganiiseed Health Post,Health Post,,9.7295,43.7159,GPS
+682,West Galbeed,Central Berbera Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.4385,45.0112,GPS
+683,West Galbeed,Central Hargeisa Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.5596,44.0667,GPS
+684,West Galbeed,Da'Ar-Budhuq Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8565,44.5275,Other
+685,West Galbeed,Daraarweyne Health Post,Health Post,MoHL,9.7196,44.2231,GPS
+686,West Galbeed,Darasalam Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8408,44.0137,Other
+687,West Galbeed,Dhinbi Riyaale Health Post,Health Post,MoHL,9.2723,44.1111,GPS
+688,West Galbeed,Dudumale Health Post,Health Post,NGO,9.704,43.372,GPS
+689,West Galbeed,El-Lahelay Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.3667,47.15,Other
+690,West Galbeed,Gabiley Hospital,Hospital,MoHL,9.7015,43.626,GPS
+691,West Galbeed,Gabiley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.7048,43.6252,GPS
+692,West Galbeed,Garabis Health Post,Health Post,MoHL,9.4397,43.9547,GPS
+693,West Galbeed,Geed Ballaadh Health Post,Health Post,MoHL,9.4847,43.4317,GPS
+694,West Galbeed,Geed Deeble Health Post,Health Post,MoHL,9.7473,43.9727,GPS
+695,West Galbeed,Geed Diqsi Health Post,Health Post,MoHL,9.8283,43.4181,GPS
+696,West Galbeed,Gumar Health Post,Health Post,MoHL,9.109,43.9163,GPS
+697,West Galbeed,Gumbura Health Post,Health Post,MoHL,9.1173,44.1,GPS
+698,West Galbeed,Horahaadley Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.8776,44.0319,GPS
+699,West Galbeed,Ijaara Health Post,Health Post,,9.5836,43.6289,GPS
+700,West Galbeed,Ilkawayne Health Post,Health Post,,9.6893,43.4016,GPS
+701,West Galbeed,Ilmo Deddo Health Post,Health Post,,9.7545,43.4626,GPS
+702,West Galbeed,Jamo-Laye Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.4427,45.0215,Other
+703,West Galbeed,Kalabaydh Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.6713,43.4762,GPS
+704,West Galbeed,Laaya Health Post,Health Post,,9.5007,43.588,GPS
+705,West Galbeed,Lafa-Rug Health Post,Health Post,MoHL,10.1455,45.1201,Other
+706,West Galbeed,Laso-Dacawo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0514,44.9841,Other
+707,West Galbeed,Mandhera Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8999,44.7114,Other
+708,West Galbeed,Qool Buulale Health Post,Health Post,MoHL,8.8733,44.4007,GPS
+709,West Galbeed,Sahardid Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5576,44.0672,Google Earth
+710,West Galbeed,Salahley Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.0269,44.2023,Other
+711,West Galbeed,Sayla Bari Health Post,Health Post,MoHL,9.1736,44.1703,GPS
+712,West Galbeed,Sheikh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.435,45.0059,Other
+713,West Galbeed,Taysa Health Post,Health Post,,9.5674,43.6726,GPS
+714,West Galbeed,Tog-Wajale Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.6024,43.3363,GPS
+715,West Galbeed,Xidhinta Health Post,Health Post,,9.5463,43.732,GPS
+716,West Galbeed,Xoorey Health Post,Health Post,MoHL,9.6768,43.6224,GPS
